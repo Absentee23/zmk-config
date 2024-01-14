@@ -10,8 +10,8 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 &led_strip {
-  chain-length = <33>
-}
+  chain-length = <33>;
+};
 
 / {
     keymap {
